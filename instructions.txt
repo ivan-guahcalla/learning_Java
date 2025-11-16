@@ -1,0 +1,10 @@
+Basics:
+1. Hacer la suma de dos números y mostrar en pantalla
+2. Sacar el promedio de 4 notas y mostrar en pantalla
+3. Ver si el promedio de la pregunta 2 es mayor a 51, si es así entonces mostrar en pantalla aprobado
+4. Ver si el número dado es primo y mostrar en pantalla "Es primo" o "No es primo"
+5. Hacer la suma de n números
+6. Mostrar en pantalla los primeros n números primos
+
+
+
