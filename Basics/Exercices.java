@@ -1,33 +1,11 @@
-
-/**
- * Write a description of class Exercices here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Exercices
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class Exercices
-     */
-    public Exercices()
-    {
-        // initialise instance variables
-        x = 0;
+    // 1. instance variables - replace the example below with your own
+    public int sum(int a, int b){
+        int totalSum = a + b;
+        return totalSum;
+        
     }
-
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
+    // 2. 
+    
 }
